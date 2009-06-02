@@ -1,8 +1,7 @@
 <?php
 
 // SAFE MYSQL API FOR PHP
-// COPYRIGHT (C) 2009 1CANDELA.  ALL RIGHTS RESERVED.
-// used with permission -jonathan.
+// COPYRIGHT (C) 2009 Buhacoff Information Assurance
 
 $hostname='my.server.com';
 $username='username';
